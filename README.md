@@ -1,16 +1,10 @@
 # **Meraki**
 
 Welcome to the third stage of this event. Congrats on making it this far!
-Your goal for this stage is to complete the following link:
+Your goal for this stage, as usual, is to complete the following puzzles to
+reach the fourth and final stage of this event.
 
-**https[]()://bit.ly/ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _** (That's 16 underscores)
-
-The same 16 character word is to be used in yet another link given below to
-proceed further:
-**h**
-
-As usual, crack the riddles given below to win!
-
+Good luck, you'll need it!
 ___
 > **1.** I'm a language born in the '90s, not from an island, but with "island" in my name.
 Created by James, not a pirate, but my impact on tech was just the same.
@@ -24,18 +18,22 @@ In enterprises and on the web, my journey began with version two.
 
 _The decrypted message is **Flag 3.1**_
 ___
-> **2.** From JetBrains I hailed, in Russia's embrace,
-> Java's companion, in a modern embrace.
-> Null safety I cherish, code concise and bright,
-> On Android's playground, I take flight.
-> In a nutshell, I'm a coder's delight,
-> Can you name this language, in tech's limelight?
+> **2.** 
+![N|Solid](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse3.mm.bing.net%2Fth%3Fid%3DOIP.O5uG2TlX80oTkmK15HqotgHaEK%26pid%3DApi&f=1&ipt=59b4ce7e23c3ddeb50dd725af74d4687670eb9a0967cb7c86576b638a4637da1&ipo=images)
+> Welcome to Towers of Hanoi, a classic game of logical
+> thinking! The rules are as follows:
+> - You cannot place a larger disk onto a smaller disk.
+> - You can only move a single disk at every step.
 
-_The decrypted message is **Flag 3.2**_
+> Find out the **minimum number of steps** required to move
+> all the disks (in the same order) to the rightmost rod.
+
+_The solution of this puzzle is **Flag 3.2**_
 ___
 > **3.**
 ![N|Solid](https://i.imgur.com/8hyvWMF.jpg)
 
 _The decrypted message is **Flag 3.3**_
-Combine these flags and visit the resulting link to continue!
 ___
+Combine these flags and unlock the next stage's
+corresponding PDF to continue!
